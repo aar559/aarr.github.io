@@ -7,3 +7,4 @@ export default defineConfig({
   base: '/', // Add this line since you're using a custom domain
 })
 
+
